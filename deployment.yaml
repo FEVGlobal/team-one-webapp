@@ -32,5 +32,5 @@
 #       dnsPolicy: ClusterFirst
 #       restartPolicy: Always
 
-resources:
+ resources:
   - non-existent.yaml  # <- This file doesn't exist
